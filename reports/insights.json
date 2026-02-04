@@ -1,0 +1,137 @@
+{
+  "total_responses": 1736,
+  "unique_routes": 172,
+  "top_routes": [
+    [
+      "54",
+      254
+    ],
+    [
+      "28X",
+      222
+    ],
+    [
+      "P1",
+      186
+    ],
+    [
+      "61A",
+      185
+    ],
+    [
+      "61C",
+      185
+    ],
+    [
+      "64",
+      174
+    ],
+    [
+      "71C",
+      158
+    ],
+    [
+      "87",
+      158
+    ],
+    [
+      "75",
+      153
+    ],
+    [
+      "71B",
+      152
+    ],
+    [
+      "61B",
+      151
+    ],
+    [
+      "93",
+      139
+    ],
+    [
+      "71A",
+      136
+    ],
+    [
+      "58",
+      130
+    ],
+    [
+      "41",
+      112
+    ]
+  ],
+  "action_types": {
+    "INCREASE_FREQUENCY": 501,
+    "IMPROVE_COVERAGE": 165,
+    "ADD_SERVICE": 137,
+    "DIRECT_CONNECTION": 95,
+    "PREVENT_ELIMINATION": 36,
+    "IMPROVE_RELIABILITY": 46,
+    "RESTORE_SERVICE": 16
+  },
+  "top_areas": [
+    [
+      "downtown",
+      317
+    ],
+    [
+      "oakland",
+      279
+    ],
+    [
+      "greenfield",
+      59
+    ],
+    [
+      "millvale",
+      56
+    ],
+    [
+      "airport",
+      53
+    ],
+    [
+      "squirrel hill",
+      47
+    ],
+    [
+      "lawrenceville",
+      42
+    ],
+    [
+      "south side",
+      42
+    ],
+    [
+      "bloomfield",
+      40
+    ],
+    [
+      "east liberty",
+      36
+    ],
+    [
+      "south hills",
+      35
+    ],
+    [
+      "friendship",
+      27
+    ],
+    [
+      "shadyside",
+      23
+    ],
+    [
+      "pitt",
+      23
+    ],
+    [
+      "east end",
+      18
+    ]
+  ]
+}
